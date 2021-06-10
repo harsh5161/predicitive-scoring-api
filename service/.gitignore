@@ -1,0 +1,5 @@
+*.csv
+*.xls*
+*.json
+model_info
+local-*
